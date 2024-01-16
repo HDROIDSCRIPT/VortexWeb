@@ -1,5 +1,5 @@
 # VortexWeb
-An html website maker i made using MySQL and PHP
+An html website maker i made using MySQL and PHP (i used chatgpt for this im sorry)
 # HOW TO SET UP
 Use serv00.net or ct8.pl to host it or just use a local host, infinityfree sucks
 # NOTE
